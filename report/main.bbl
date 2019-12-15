@@ -1,0 +1,541 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{bvdk-hongngoc}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{title}{Quả cam – Vị thuốc bốn mùa}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://hongngochospital.vn/qua-cam-vi-thuoc-bon-mua/
+      \endverb
+      \verb{url}
+      \verb https://hongngochospital.vn/qua-cam-vi-thuoc-bon-mua/
+      \endverb
+    \endentry
+    \entry{dongthaponline}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ed3d8e3956acdd81dbbda8e4b3f6231c}{%
+           family={Thức},
+           familyi={T\bibinitperiod},
+           given={Mỹ},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ed3d8e3956acdd81dbbda8e4b3f6231c}
+      \strng{fullhash}{ed3d8e3956acdd81dbbda8e4b3f6231c}
+      \strng{bibnamehash}{ed3d8e3956acdd81dbbda8e4b3f6231c}
+      \strng{authorbibnamehash}{ed3d8e3956acdd81dbbda8e4b3f6231c}
+      \strng{authornamehash}{ed3d8e3956acdd81dbbda8e4b3f6231c}
+      \strng{authorfullhash}{ed3d8e3956acdd81dbbda8e4b3f6231c}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bệnh trên cây có múi thiệt hại 260ha}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb http://www.baodongthap.vn/giam-ngheo-ve-thong-tin-2018/benh-tren-cay-co-mui-thiet-hai-260ha-78516.aspx
+      \endverb
+      \verb{url}
+      \verb http://www.baodongthap.vn/giam-ngheo-ve-thong-tin-2018/benh-tren-cay-co-mui-thiet-hai-260ha-78516.aspx
+      \endverb
+    \endentry
+    \entry{vinhlongonline}{online}{}
+      \name{author}{1}{}{%
+        {{hash=97bccd709427a10b2b6388879c496454}{%
+           family={Tân},
+           familyi={T\bibinitperiod},
+           given={Hưng},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{97bccd709427a10b2b6388879c496454}
+      \strng{fullhash}{97bccd709427a10b2b6388879c496454}
+      \strng{bibnamehash}{97bccd709427a10b2b6388879c496454}
+      \strng{authorbibnamehash}{97bccd709427a10b2b6388879c496454}
+      \strng{authornamehash}{97bccd709427a10b2b6388879c496454}
+      \strng{authorfullhash}{97bccd709427a10b2b6388879c496454}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Phát triển vườn cây có múi ở ĐBSCL: Còn nhiều nỗi lo}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb http://www.baovinhlong.com.vn/nhip-song-dong-bang/201807/phat-trien-vuon-cay-co-mui-o-dbscl-con-nhieu-noi-lo-2902014/#.Xc-MJdFS80h
+      \endverb
+      \verb{url}
+      \verb http://www.baovinhlong.com.vn/nhip-song-dong-bang/201807/phat-trien-vuon-cay-co-mui-o-dbscl-con-nhieu-noi-lo-2902014/#.Xc-MJdFS80h
+      \endverb
+    \endentry
+    \entry{weizheng2008grading}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=4d78baacbc2ee1d37fdada2176810f7c}{%
+           family={Weizheng},
+           familyi={W\bibinitperiod},
+           given={Shen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7a4a8ee1eae61321a37dbe6abaedeaf8}{%
+           family={Yachun},
+           familyi={Y\bibinitperiod},
+           given={Wu},
+           giveni={W\bibinitperiod}}}%
+        {{hash=3a6411ffe552fc51a185a23d6d3d3142}{%
+           family={Zhanliang},
+           familyi={Z\bibinitperiod},
+           given={Chen},
+           giveni={C\bibinitperiod}}}%
+        {{hash=195e0232d5e6cb714e6b7c47589f3efe}{%
+           family={Hongda},
+           familyi={H\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{c8876b25fc6fd1587a304880a67dd1a0}
+      \strng{fullhash}{2422471beae1279becc3191a03f37bc0}
+      \strng{bibnamehash}{2422471beae1279becc3191a03f37bc0}
+      \strng{authorbibnamehash}{2422471beae1279becc3191a03f37bc0}
+      \strng{authornamehash}{c8876b25fc6fd1587a304880a67dd1a0}
+      \strng{authorfullhash}{2422471beae1279becc3191a03f37bc0}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2008 international conference on computer science and software engineering}
+      \field{title}{Grading method of leaf spot disease based on image processing}
+      \field{volume}{6}
+      \field{year}{2008}
+      \field{pages}{491\bibrangedash 494}
+      \range{pages}{4}
+    \endentry
+    \entry{ei2004integrating}{article}{}
+      \name{author}{4}{}{%
+        {{hash=567bf4869b123517117456ffacaaa89f}{%
+           family={Ei--Helly},
+           familyi={E\bibinithyphendelim \bibinithyphendelim \bibinithyphendelim H\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fb098306b54582d57e9d173e33b9a7ca}{%
+           family={Rafea},
+           familyi={R\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod}}}%
+        {{hash=246405fe362308ea9cb433574bd12ed3}{%
+           family={Ei--Gamal},
+           familyi={E\bibinithyphendelim \bibinithyphendelim \bibinithyphendelim G\bibinitperiod},
+           given={Salwa},
+           giveni={S\bibinitperiod}}}%
+        {{hash=93651c2ddaef5a93f973df4a72ab0ee5}{%
+           family={Whab},
+           familyi={W\bibinitperiod},
+           given={Reda\bibnamedelimb Abd\bibnamedelima Ei},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{8ba9c7ae0f81fcfeed01fc03b6f74996}
+      \strng{fullhash}{739f8fcc866a4232109ceede2e040539}
+      \strng{bibnamehash}{739f8fcc866a4232109ceede2e040539}
+      \strng{authorbibnamehash}{739f8fcc866a4232109ceede2e040539}
+      \strng{authornamehash}{8ba9c7ae0f81fcfeed01fc03b6f74996}
+      \strng{authorfullhash}{739f8fcc866a4232109ceede2e040539}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Central Laboratory for Agricultural Expert System (CLAES)}
+      \field{title}{Integrating diagnostic expert system with image processing via loosely coupled technique}
+      \field{year}{2004}
+    \endentry
+    \entry{moshashai2008identification}{article}{}
+      \name{author}{4}{}{%
+        {{hash=f01f60db7d3674e4e3f5b30d8c2526d4}{%
+           family={Moshashai},
+           familyi={M\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a6f65fcc3d527730c275731391e37a53}{%
+           family={Almasi},
+           familyi={A\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=03bcf03565c8e8e5e565ad5f2523289c}{%
+           family={Minaei},
+           familyi={M\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6a93bcb5250498e8c37200d4a86403a4}{%
+           family={Borghei},
+           familyi={B\bibinitperiod},
+           given={AM},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b44f0cdde618c6f18847711c420037e6}
+      \strng{fullhash}{732d43bf9270d372599f6ca0d9aca4f3}
+      \strng{bibnamehash}{732d43bf9270d372599f6ca0d9aca4f3}
+      \strng{authorbibnamehash}{732d43bf9270d372599f6ca0d9aca4f3}
+      \strng{authornamehash}{b44f0cdde618c6f18847711c420037e6}
+      \strng{authorfullhash}{732d43bf9270d372599f6ca0d9aca4f3}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Agricultural Research}
+      \field{number}{5}
+      \field{title}{Identification of sugarcane nodes using image processing and machine vision technology}
+      \field{volume}{3}
+      \field{year}{2008}
+      \field{pages}{357\bibrangedash 364}
+      \range{pages}{8}
+    \endentry
+    \entry{al2011detection}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c4a644d84dcf3ab52abcd3e96b22cbac}{%
+           family={Al\bibnamedelima Bashish},
+           familyi={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Dheeb},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8711c7a17a7149adb0d9a2d8c5608788}{%
+           family={Braik},
+           familyi={B\bibinitperiod},
+           given={Malik},
+           giveni={M\bibinitperiod}}}%
+        {{hash=01055f47a7266db13b7edafca69f1fef}{%
+           family={Bani-Ahmad},
+           familyi={B\bibinithyphendelim A\bibinitperiod},
+           given={Sulieman},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{d28670bcc585b4562350c4ef0b8103e3}
+      \strng{fullhash}{d28670bcc585b4562350c4ef0b8103e3}
+      \strng{bibnamehash}{d28670bcc585b4562350c4ef0b8103e3}
+      \strng{authorbibnamehash}{d28670bcc585b4562350c4ef0b8103e3}
+      \strng{authornamehash}{d28670bcc585b4562350c4ef0b8103e3}
+      \strng{authorfullhash}{d28670bcc585b4562350c4ef0b8103e3}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Information Technology Journal}
+      \field{number}{2}
+      \field{title}{Detection and classification of leaf diseases using K-means-based segmentation and}
+      \field{volume}{10}
+      \field{year}{2011}
+      \field{pages}{267\bibrangedash 275}
+      \range{pages}{9}
+    \endentry
+    \entry{scikit-image}{article}{}
+      \name{author}{9}{}{%
+        {{hash=385cf725d4d28f79a6a6e5c6e0635ba4}{%
+           family={Walt},
+           familyi={W\bibinitperiod},
+           given={Stéfan},
+           giveni={S\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=bc96f18a50bd69512966270d92a3d948}{%
+           family={Schönberger},
+           familyi={S\bibinitperiod},
+           given={Johannes\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=8c435c98f7175eec5cb17c38ccd93512}{%
+           family={{Nunez-Iglesias}},
+           familyi={N\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ad63bb78450d8f1615026773f0e61b12}{%
+           family={Boulogne},
+           familyi={B\bibinitperiod},
+           given={François},
+           giveni={F\bibinitperiod}}}%
+        {{hash=62dc4e3b2150a2e5b18f80b7285bc457}{%
+           family={Warner},
+           familyi={W\bibinitperiod},
+           given={Joshua\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=7ca13a2e05997ae75c39fa7996977f43}{%
+           family={Yager},
+           familyi={Y\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+        {{hash=c7afdfacfc751650f4ffc8017c917bb1}{%
+           family={Gouillart},
+           familyi={G\bibinitperiod},
+           given={Emmanuelle},
+           giveni={E\bibinitperiod}}}%
+        {{hash=196b0f9888441e1e638c15e8b8358455}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Tony},
+           giveni={T\bibinitperiod}}}%
+        {{hash=da4f0540dd7e4a91f3d808e72c09a34d}{%
+           family={contributors},
+           familyi={c\bibinitperiod},
+           prefix={the\bibnamedelima scikit-image},
+           prefixi={t\bibinitperiod\bibinitdelim s\bibinithyphendelim i\bibinitperiod}}}%
+      }
+      \strng{namehash}{cf3531e3fef4a2f0d752163183f83655}
+      \strng{fullhash}{f7cc6d41c66e4eee0100b507dc73b26e}
+      \strng{bibnamehash}{f7cc6d41c66e4eee0100b507dc73b26e}
+      \strng{authorbibnamehash}{f7cc6d41c66e4eee0100b507dc73b26e}
+      \strng{authornamehash}{cf3531e3fef4a2f0d752163183f83655}
+      \strng{authorfullhash}{f7cc6d41c66e4eee0100b507dc73b26e}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2167-8359}
+      \field{journaltitle}{PeerJ}
+      \field{month}{6}
+      \field{title}{scikit-image: image processing in Python}
+      \field{volume}{2}
+      \field{year}{2014}
+      \field{pages}{e453}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.7717/peerj.453
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.7717/peerj.453
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.7717/peerj.453
+      \endverb
+      \keyw{Image processing,Reproducible research,Education,Visualization,Open source,Python,Scientific programming}
+    \endentry
+    \entry{digitalimageprocessing}{inbook}{}
+      \name{author}{2}{}{%
+        {{hash=5fb81c2c667dc57b391dc8535f8cdc55}{%
+           family={Gonzalez},
+           familyi={G\bibinitperiod},
+           given={Rafael\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=44357e9cebb9c9be192d9438170d83cb}{%
+           family={Woods},
+           familyi={W\bibinitperiod},
+           given={Richard\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{e7fcae86d77937443358935fb58478f3}
+      \strng{fullhash}{e7fcae86d77937443358935fb58478f3}
+      \strng{bibnamehash}{e7fcae86d77937443358935fb58478f3}
+      \strng{authorbibnamehash}{e7fcae86d77937443358935fb58478f3}
+      \strng{authornamehash}{e7fcae86d77937443358935fb58478f3}
+      \strng{authorfullhash}{e7fcae86d77937443358935fb58478f3}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Digital Image Processing}
+      \field{title}{Digital Image Processing}
+      \field{year}{2002}
+    \endentry
+    \entry{lowe2004distinctive}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1b5682cb7575786fbfd93e7adeb1789d}{%
+           family={Lowe},
+           familyi={L\bibinitperiod},
+           given={David\bibnamedelima G},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{1b5682cb7575786fbfd93e7adeb1789d}
+      \strng{fullhash}{1b5682cb7575786fbfd93e7adeb1789d}
+      \strng{bibnamehash}{1b5682cb7575786fbfd93e7adeb1789d}
+      \strng{authorbibnamehash}{1b5682cb7575786fbfd93e7adeb1789d}
+      \strng{authornamehash}{1b5682cb7575786fbfd93e7adeb1789d}
+      \strng{authorfullhash}{1b5682cb7575786fbfd93e7adeb1789d}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International journal of computer vision}
+      \field{number}{2}
+      \field{title}{Distinctive image features from scale-invariant keypoints}
+      \field{volume}{60}
+      \field{year}{2004}
+      \field{pages}{91\bibrangedash 110}
+      \range{pages}{20}
+    \endentry
+    \entry{dalal2005histograms}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=56b04d8128bc6b04002f2bba11177d2d}{%
+           family={Dalal},
+           familyi={D\bibinitperiod},
+           given={Navneet},
+           giveni={N\bibinitperiod}}}%
+        {{hash=7edc70f9ce27f4a800aa68cbd1625f51}{%
+           family={Triggs},
+           familyi={T\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{061fc00534f121cc44884e9acda158db}
+      \strng{fullhash}{061fc00534f121cc44884e9acda158db}
+      \strng{bibnamehash}{061fc00534f121cc44884e9acda158db}
+      \strng{authorbibnamehash}{061fc00534f121cc44884e9acda158db}
+      \strng{authornamehash}{061fc00534f121cc44884e9acda158db}
+      \strng{authorfullhash}{061fc00534f121cc44884e9acda158db}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Histograms of oriented gradients for human detection}
+      \field{year}{2005}
+    \endentry
+    \entry{learnopencv}{online}{}
+      \name{author}{1}{}{%
+        {{hash=6e8ec9222cd6c9a86ea331d95422ec39}{%
+           family={Mallick},
+           familyi={M\bibinitperiod},
+           given={Satya},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{6e8ec9222cd6c9a86ea331d95422ec39}
+      \strng{fullhash}{6e8ec9222cd6c9a86ea331d95422ec39}
+      \strng{bibnamehash}{6e8ec9222cd6c9a86ea331d95422ec39}
+      \strng{authorbibnamehash}{6e8ec9222cd6c9a86ea331d95422ec39}
+      \strng{authornamehash}{6e8ec9222cd6c9a86ea331d95422ec39}
+      \strng{authorfullhash}{6e8ec9222cd6c9a86ea331d95422ec39}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Histogram of Oriented Gradients}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.learnopencv.com/histogram-of-oriented-gradients/
+      \endverb
+      \verb{url}
+      \verb https://www.learnopencv.com/histogram-of-oriented-gradients/
+      \endverb
+    \endentry
+    \entry{He2015}{article}{}
+      \name{author}{4}{}{%
+        {{hash=6b4b60e909e78633945f3f9c9dc83e01}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Kaiming},
+           giveni={K\bibinitperiod}}}%
+        {{hash=5e72bc22dbcf0984c6d113d280e36990}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xiangyu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=bb295293acacd54387339079ebbe4ead}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Shaoqing},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f85751488058842b5777c7b4074077b5}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{3733dbdff90171390240438fddfbc952}
+      \strng{fullhash}{42c4b52dc3a62cebabbc11c73e1afb53}
+      \strng{bibnamehash}{42c4b52dc3a62cebabbc11c73e1afb53}
+      \strng{authorbibnamehash}{42c4b52dc3a62cebabbc11c73e1afb53}
+      \strng{authornamehash}{3733dbdff90171390240438fddfbc952}
+      \strng{authorfullhash}{42c4b52dc3a62cebabbc11c73e1afb53}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1512.03385}
+      \field{title}{Deep Residual Learning for Image Recognition}
+      \field{year}{2015}
+    \endentry
+    \entry{khang2019}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2505be45ce6d7848a9745fe0ca0dab51}{%
+           family={Khang},
+           familyi={K\bibinitperiod},
+           given={Phạm\bibnamedelima Nguy{ê}n},
+           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=c9ff605acc7b4d9ebdd23c52591747a3}{%
+           family={Thư},
+           familyi={T\bibinitperiod},
+           given={Trần\bibnamedelimb Nguyễn\bibnamedelima Minh},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=d28247dc4a16c87e1b42e6fcffd85db2}{%
+           family={Nghị},
+           familyi={N\bibinitperiod},
+           given={Đỗ\bibnamedelima Thanh},
+           giveni={Đ\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe63045966f089f7262ce44cd3d796f0}
+      \strng{fullhash}{fe63045966f089f7262ce44cd3d796f0}
+      \strng{bibnamehash}{fe63045966f089f7262ce44cd3d796f0}
+      \strng{authorbibnamehash}{fe63045966f089f7262ce44cd3d796f0}
+      \strng{authornamehash}{fe63045966f089f7262ce44cd3d796f0}
+      \strng{authorfullhash}{fe63045966f089f7262ce44cd3d796f0}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PROCEEDING of Publishing House for Science and Technology}
+      \field{title}{ĐIỂM DANH BẰNG MẶT NGƯỜI VỚI ĐẶC TRƯNG GIST V{À} M{Á}Y HỌC V{É}CTƠ HỖ TRỢ}
+      \field{year}{2019}
+    \endentry
+    \entry{kim12012comparing}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=aab6f25c0d2d2d25cefce9ce9e822586}{%
+           family={Kim$^1$},
+           familyi={K\bibinitperiod},
+           given={JINHO},
+           giveni={J\bibinitperiod}}}%
+        {{hash=498cf76b4a452060ceabed2e613ecc75}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={BS},
+           giveni={B\bibinitperiod}}}%
+        {{hash=e29c20003a517abaaac28852301c03c2}{%
+           family={Savarese},
+           familyi={S\bibinitperiod},
+           given={Silvio},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{bfb2069534ae824c2a91a9cb3f1e1111}
+      \strng{fullhash}{bfb2069534ae824c2a91a9cb3f1e1111}
+      \strng{bibnamehash}{bfb2069534ae824c2a91a9cb3f1e1111}
+      \strng{authorbibnamehash}{bfb2069534ae824c2a91a9cb3f1e1111}
+      \strng{authornamehash}{bfb2069534ae824c2a91a9cb3f1e1111}
+      \strng{authorfullhash}{bfb2069534ae824c2a91a9cb3f1e1111}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 6th WSEAS international conference on Computer Engineering and Applications, and Proceedings of the 2012 American conference on Applied Mathematics}
+      \field{title}{Comparing image classification methods: K-nearest-neighbor and support-vector-machines}
+      \field{volume}{1001}
+      \field{year}{2012}
+      \field{pages}{48109\bibrangedash 2122}
+      \range{pages}{-5986}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,12 @@
+\chapter{\mbox{Kết luận và hướng phát triển}} \label{chapter05}
+
+\section{Kết luận và hạn chế}
+\subsection{Kết luận}
+Luận văn thực hiện ứng dụng máy học véc-tơ hỗ trợ trong phân loại bệnh trên lá cam sử dụng các đặc trưng SIFT- (BoVW), Color, HOG, GIST và ResNet. Bước rút trích đặc trưng và phân loại, đạt mục tiêu đề ra thời gian không quá lâu và độ chính xác chấp nhận được. Kết quả thực nghiệm trên tập dữ liệu gồm 711 ảnh của 5 loại, trong đó 4 loại là bệnh thường xuất hiện trong các nhà vườn tại 2 tỉnh (Đồng Tháp và Hậu Giang) và 1 loại lá khỏe cho thấy phương pháp SVM-SIFT-(BoVW)-Color-HOG-GIST-ResNet đạt đến 90.84\% độ chính xác trên tập kiểm tra, cao hơn so với với mô hình KNN sử dụng cùng đặc trưng là 42.95\%.
+
+\subsection{Hạn chế}
+Trong đề tài này, tuy độ chính xác là chấp nhận được, nhưng cần kiểm chứng trên tập dữ liệu lớn hơn để tránh trường hợp học vẹt làm cho độ chính xác ngoài thực tế không giống với kết quả thực nghiệm. Mô hình phân loại chỉ giới hạn ở 4 loại bệnh là một hạn chế, vì trong thực tế còn rất nhiều loại bệnh. Do vào thời điểm thực hiện đề tài (10/2019) , thực hiện thu thập mẫu ở 2 tỉnh Đồng Tháp và Hậu Giang chỉ xuất hiện 4 loại bệnh, vì một số loại bệnh xuất hiện theo mùa nên còn nhiều hạn chế.
+
+
+\section{Hướng phát triển}
+Trong tương lại gần, chúng tôi dự định thu thập thêm mẫu của một số loại bệnh mới và tăng thêm số lượng mẫu cho các loại bệnh đã được thực hiện trong đề tài này, mục đích cung cấp thêm kết quả thực nghiệm trên tập dữ liệu lớn hơn, đa dạng các loại bệnh hơn và so sánh hiệu quả của mô hình máy học SVM với các mô hình máy học khác.

@@ -1,0 +1,57 @@
+\documentclass[12pt, a4paper, oneside]{extreport}
+\usepackage[top=3cm, bottom=3cm, left=3.5cm, right=2cm]{geometry}
+\usepackage[utf8]{vietnam}
+\usepackage{mathptmx}
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage[unicode]{hyperref}
+\usepackage{wrapfig}
+\usepackage[backend=biber, style=ieee]{biblatex}
+\usepackage{tikz}
+\usepackage{indentfirst}
+\usepackage{enumitem}
+\usepackage{multido}
+\usepackage{titlesec}
+\usepackage{wrapfig}
+%\usepackage{dashrule}
+%\usepackage{nopageno}
+%\usepackage[resetlabels]{multibib}
+
+\addbibresource{contents/references.bib}
+\graphicspath{{./figures/}}
+\renewcommand{\baselinestretch}{1.2}	%  line spacing
+%\setlength{\parskip}{6pt}
+\hypersetup{colorlinks=true, linkcolor=black, citecolor=black}
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{3}
+\setlength{\parindent}{1cm}
+\setlist[itemize]{leftmargin=1.5cm}
+\setlist[enumerate]{leftmargin=1.5cm}
+\titleformat*{\section}{\large\bfseries}
+\titleformat*{\subsection}{\large\bfseries}	
+
+\newcommand{\Pointilles}[1]{%
+	\par \nobreak
+	\noindent \rule{0pt}{1.5 \baselineskip}
+	\multido{}{#1}{\noindent \makebox[\linewidth]{\dotfill}\endgraf}
+	\bigskip
+}
+	
+
+
+\begin{document}
+%\input{contents/00-cover.tex}
+\input{contents/02-mucluc.tex}
+\pagenumbering{arabic}
+\setcounter{page}{1}
+\input{contents/ch01-gioithieu.tex}
+\input{contents/ch02-cosolythuyet.tex}
+\input{contents/ch03-xaydunghethong.tex}
+\input{contents/ch04-thucnghiemvadanhgiaketqua.tex}
+\input{contents/ch05-ketluanvahuongphattrien.tex}
+\printbibliography
+\addcontentsline{toc}{chapter}{Tài liệu tham khảo}
+\newpage
+\end{document}

@@ -1,0 +1,17 @@
+% Nếu soạn thảo bảng dài, tham khảo thêm supertabular và longtabular
+% \begin{Huge}
+% {\raggedleft \textbf{Bảng quy ước các kí hiệu}} \\\\
+% \end{Huge}\newline\newline\newline
+\chapter*{\Huge Bảng quy ước các kí hiệu}
+
+\setlength{\tabcolsep}{12pt} % Chiều ngang của cột
+\renewcommand{\arraystretch}{1} % Khoảng cách giữa kí tự trong ô
+\begin{tabular}{|c|c|p{10cm}|}
+    \hline 
+    \textbf{STT} & \textbf{Kí hiệu} & \textbf{Diễn giải}\\ [0.5ex]
+    \hline 
+    \hline 1 & \textbf{x, y} & In đậm, chữ thường là các vector\\
+    \hline 2 & \textbf{X, Y} & In đậm, chữ hoa là các ma trận\\
+    \hline 3 & \textbf{R} & Tập hợp các số thực\\
+    \hline
+\end{tabular}
